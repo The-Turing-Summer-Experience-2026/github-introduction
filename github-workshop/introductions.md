@@ -8,7 +8,7 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 1. 
 2.
 3.
-4.
+4. Pepperoni, nduja and hot honey
 5.
 6.
 7.
