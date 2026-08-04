@@ -9,7 +9,7 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 2.
 3.
 4.
-5.
+5.garlic sauce
 6.
 7.
 8.
