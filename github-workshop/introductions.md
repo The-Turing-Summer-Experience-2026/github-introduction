@@ -11,7 +11,7 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 4.
 5.
 6.
-7.
+7.Meat Feast
 8.
 9.
 10.
