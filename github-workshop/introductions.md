@@ -8,11 +8,11 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 1.Cheese
 2.
 3.
-4. spicy chicken, pineapple
-5.
+4. spicy chicken, 
+5. Pepperoni 
 6. pineapple
-7.
-8.
+7. olives
+8. sushi
 9.
 10.
 11.
