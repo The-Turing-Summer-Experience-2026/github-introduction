@@ -9,6 +9,10 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 2. 
 3. 
 4.
+1. Chicken
+2.pineapple
+3.spicy chicken, pineapple
+4. 
 5.
 6.
 7.
