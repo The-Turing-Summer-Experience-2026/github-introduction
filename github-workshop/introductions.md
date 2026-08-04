@@ -14,7 +14,7 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 7.
 8.
 9.
-10.
+10. Haribo giant strawbs
 11.
 12.
 13.
