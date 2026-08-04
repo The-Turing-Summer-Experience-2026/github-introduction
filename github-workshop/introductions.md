@@ -5,8 +5,8 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1. Pineapple
-2. Jelly babies
+1. 
+2. 
 3.
 4.
 5.
@@ -14,7 +14,7 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 7.
 8.
 9.
-10.Pineapple jelly babies
+10.
 11.
 12.
 13.
