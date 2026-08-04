@@ -5,7 +5,7 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1.pepperoni
+1.
 2.
 3.
 4.
@@ -13,7 +13,7 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 6.
 7.
 8.
-9.
+9. nduja
 10.
 11.
 12.
