@@ -5,29 +5,29 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1. Pineapple
-2. Feta Cheese
-3. Pepperoni 
-4. Jalepeno
-5. Ham
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
-21.
-22.
-23.
+1. Pepperoni
+2. Tomato
+3. Cheese
+4. Jalapeños
+5. Chicken
+6. Beef
+7. Sausages
+8. Sweetcorn
+9. Pineapple
+10. Coriander
+11. Mushrooms
+12. Olives
+13. Turkey
+14. Chicken tikka
+15. Bacon
+16. Ham
+17. BBQ Chicken
+18. Prosciutto
+19. Onions
+20. Spinach
+21. Pesto
+22. Peppers
+23. Hot honey
 24.
 25.
 26.
@@ -45,4 +45,3 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 38.
 39.
 40.
-41.
