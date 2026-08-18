@@ -5,27 +5,27 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1. cheese
+1. cheddar cheese
 2. peppers
 3. chicken
 4. tomatoes
 5. pepperoni
-6. 
-7.
-8.
-9.
-10.
-11.
+6. bbq sauce
+7.pesto
+8. chillis
+9. mozzarella
+10. sun dried tomatoes 
+11. garlic and herb sauce
 12.
 13.
 14.
-15.
+15.sweetcorn
 16.
 17.
 18.
 19.
 20.
-21.
+21. olives
 22.
 23.
 24.
@@ -36,7 +36,7 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 29.
 30.
 31.
-32.
+32. jalapenos
 33. hot honey
 34.
 35.
