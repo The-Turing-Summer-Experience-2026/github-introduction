@@ -18,6 +18,19 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 11. bell pepper
 12. tuna
 13. 
+1. Pineapple
+2. Feta Cheese
+3. Pepperoni 
+4. Jalepeno
+5. Ham
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
 14.
 15.
 16.
@@ -45,3 +58,4 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 38.
 39.
 40.
+41.
