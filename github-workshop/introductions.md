@@ -5,10 +5,10 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1.
-2.
-3.
-4.
+1.corn
+2.ham
+3.sausage 
+4.pepperoni
 5.
 6.
 7.
