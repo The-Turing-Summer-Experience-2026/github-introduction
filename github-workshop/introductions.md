@@ -5,17 +5,17 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
+1.pickles
+2.chicken
+3.basil
+4.mushrooms
+5.onines
+6.jalapenos
+7. olives
+8.pepperoni
+9.tomato 
+10.cheese 
+11.peppers 
 12.
 13.
 14.
