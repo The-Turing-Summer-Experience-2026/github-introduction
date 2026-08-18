@@ -5,12 +5,12 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1.
-2.
-3.
-4.
-5.
-6.
+1. things
+2. things
+3.things
+4.things
+5.things
+6.things
 7.
 8.
 9.
@@ -45,3 +45,4 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 38.
 39.
 40.
+41.
