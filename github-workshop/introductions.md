@@ -6,7 +6,7 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 
 ## Question: What is your favourite pizza topping?
 1. meat
-2.
+2.pineapple
 3.
 4.
 5.
