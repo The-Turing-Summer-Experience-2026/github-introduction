@@ -4,13 +4,13 @@
 
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
-## Question: What is your favourite pizza topping?
+## Question: What is your favourite pizza size?
 1.
-2.
-3.
-4.
-5.
-6.
+2.15 inch
+3. thin crust
+4. stuffed crust
+5. garlic and herb dip
+6. 
 7.
 8.
 9.
@@ -45,3 +45,5 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 38.
 39.
 40.
+41.
+42.
