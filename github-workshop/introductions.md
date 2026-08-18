@@ -5,14 +5,15 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1. Pineapple
-2. Feta Cheese
-3. Pepperoni 
-4. Jalepeno
-5. Ham
-6.
-7.
-8.
+1. hello jalapeño
+2. tuna ewww
+3. yuck pineapple
+
+4. how dare u asking for fun
+5. how dare u ask me for favours
+6. how dare u offer me chewing gum
+7. when ur breath come smelling like quavers
+8. ~~crisp~~
 9.
 10.
 11.
@@ -46,3 +47,8 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 39.
 40.
 41.
+42.
+43.
+44.
+45.
+46.
