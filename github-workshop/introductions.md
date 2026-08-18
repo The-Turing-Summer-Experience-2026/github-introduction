@@ -5,15 +5,15 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1. Jalapeños
+2.Pepperonis
+3.Sweetcorn
+4.Peppers
+5. Chicken
+6.Olives
+7.Cheese
+8. Chillies
+9.Red Onions
 10.
 11.
 12.
