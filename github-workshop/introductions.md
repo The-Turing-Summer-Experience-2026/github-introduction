@@ -5,8 +5,8 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1.
-2.
+1.cheese
+2.meat
 3.
 4.
 5.
