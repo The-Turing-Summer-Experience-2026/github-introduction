@@ -5,12 +5,12 @@
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
 
 ## Question: What is your favourite pizza topping?
-1.
-2.
-3.
-4.
-5.
-6.
+1. cheese
+2. peppers
+3. chicken
+4. tomatoes
+5. pepperoni
+6. 
 7.
 8.
 9.
@@ -37,7 +37,7 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 30.
 31.
 32.
-33.
+33. hot honey
 34.
 35.
 36.
@@ -45,3 +45,4 @@ This file is Exercise 2 in the Git Good: Introduction to GitHub workshop.
 38.
 39.
 40.
+41.
